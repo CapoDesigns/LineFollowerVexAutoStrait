@@ -1,0 +1,8 @@
+OT: On Tile
+OET: On Electrical Tape
+LOT:2700
+LOET:2800>
+COT:1450
+COET:2600>
+ROT:2200
+ROET:2600>
